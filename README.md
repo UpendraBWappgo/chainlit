@@ -22,7 +22,7 @@ git checkout -b work
 #
 
 ```
-
+bash init_setup.sh
 ```
 
 #
