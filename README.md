@@ -10,13 +10,13 @@ pip install chainlit
 # 
 
 ```
-
+git checkout work
 ```
 
 # 
 
 ```
-
+git checkout -b work
 ```
 
 #
