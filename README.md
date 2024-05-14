@@ -25,22 +25,25 @@ git checkout -b work
 bash init_setup.sh
 ```
 
-#
+# Using Chainlit for any Bot Creation
 
 ```
-
-```
-
-#
-
-```
-
+pip list 
+clear
+touch .gitignore
+history 
 ```
 
 #
 
 ```
+chainlit hello 
+```
 
+#
+
+```
+chainlit run app.py -w
 ```
 
 #
